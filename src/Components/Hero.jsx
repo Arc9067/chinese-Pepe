@@ -33,7 +33,8 @@ const Hero = () => {
         </a>
         <div className="mt-10 flex flex-col gap-6 md:flex-row">
           <a
-            href=""
+            href="https://t.me/ChinesePepeEth"
+            target="_blank"
             className="bg-secondary capitalize text-3xl rounded-md px-6 py-3"
             data-aos="fade-right"
             data-aos-easing="ease"
