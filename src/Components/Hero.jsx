@@ -23,6 +23,9 @@ const Hero = () => {
           commitment to transparency, CHEPE aims to bring laughter and joy to
           the crypto community.
         </p>
+        <p className="font-mono text-center text-2xl">
+          0x0180b88466a06BBfFEA7aB4AF95abB8FBAC79dD0
+        </p>
         <a
           href=""
           className="bg-black capitalize text-2xl rounded-md px-6 py-3"
@@ -58,14 +61,6 @@ const Hero = () => {
             data-aos-easing="linear"
           >
             dextool
-          </a>
-          <a
-            href=""
-            className="bg-black capitalize text-3xl rounded-md px-6 py-3"
-            data-aos="fade-right"
-            data-aos-easing="linear"
-          >
-            medium
           </a>
         </div>
 
