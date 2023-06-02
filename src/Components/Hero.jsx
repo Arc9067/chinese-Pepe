@@ -42,7 +42,7 @@ const Hero = () => {
             telegram
           </a>
           <a
-            href="https://twitter.com/chibabba/status"
+            href="https://twitter.com/pepechinese"
             target="_blank"
             className="bg-black capitalize text-3xl rounded-md px-6 py-3"
             data-aos="zoom-right"
